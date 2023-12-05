@@ -19,4 +19,4 @@ Q.
 
 Q. Dynamic route, in swiggy for diff restro diff route,useParams from react-router-dom
 Q. jsonviewer chrome plugin
-Q. Link is a wrapper over anchor tag, react-router-dom eeping track of this link
+Q. Link is a wrapper over anchor tag, react-router-dom keeping track of this link
